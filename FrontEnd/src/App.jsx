@@ -20,8 +20,8 @@ function App() {
       <div
         style={{
           position: "fixed", // Fixed position to ensure it covers the entire viewport
-          top: 0,
-          left: 0,
+          top: 1,
+          left: 3,
           width: "100vw", // Full width
           height: "100vh", // Full height
           backgroundImage: `url(${backgroundImage})`,
